@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sudip-Kumar-Mandal
-- 👀 I’m interested in uploading my projects here
+- 👀 I’m interested in IoT and working with electronics
 - 🌱 I’m currently learning git and GitHub
 
 <!---
